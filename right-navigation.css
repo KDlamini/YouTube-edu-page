@@ -40,7 +40,7 @@
 .right-navigation .nav-card {
     width: 100%;
     max-height: 110;
-    margin: 10px 0;
+    margin: 5px 0;
     display: flex;
     justify-content: space-between;
 }
