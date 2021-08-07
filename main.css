@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #F9F9F9;
+}
+
+.main-section {
+    width: 100%;
+    height: auto;
+    margin-top: 8vh;
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-content {
+    border: 1px solid purple;
+    width: 65%;
+    height: auto;
+}
